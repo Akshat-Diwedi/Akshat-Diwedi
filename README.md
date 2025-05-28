@@ -1,11 +1,12 @@
-# Akshat Diwedi | Founder & CEO at Nukeverse
+# Akshat Diwedi | Founder & CEO at Nukeverse ☢️
 
 <p align="left"> 
   <a href="https://github.com/Akshat-Diwedi" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=23555f&style=plastic&logo=github&logo-color=white" alt="Github"/>
+    <image src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=23555f&style=plastic&logo=github&logo-color=white" alt="Github"/>
   </a>
+  
   <a href="https://www.instagram.com/akshat_diwedi_ceo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=23555f&style=plastic&logo=instagram&logo-color=white" alt="Instagram"/>
+    <image src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=23555f&style=plastic&logo=instagram&logo-color=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -21,7 +22,7 @@ I'm a founder and technologist on a mission to build solutions that make a genui
 
 I'm passionate about building in these key areas:
 - **Artificial Intelligence:** Developing intelligent systems that simplify complex tasks.
-- **Web 3.0 & DApps:** Exploring the future of decentralized applications and the internet.
+- **Web 3.0 & D-Apps:** Exploring the future of decentralized applications and the internet.
 - **Defense Technology:** Innovating for security and defense sectors.
 - **SaaS Products:** Creating scalable software solutions for everyday users and businesses.
 
@@ -33,7 +34,7 @@ These are the primary technologies I work with:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,python,javascript,html,css,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,python,javascript,html,css,git,github,vscode,figma" />
   </a>
 </p>
 
@@ -41,7 +42,7 @@ These are the primary technologies I work with:
 
 ### 📊 My GitHub Activity
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Diwedi&show_icons=true&hide_border=true&theme=transparent&title_color=007bff&icon_color=007bff&text_color=e3e3e3&bg_color=0d1117" />
   </a>
@@ -54,16 +55,17 @@ These are the primary technologies I work with:
 
 ### ☢️ Featured Projects
 
-| Project | Description | Status |
-|---|---|---|
-| **Nukeverse Platform** | An innovative digital ecosystem leveraging AI and cutting-edge web tech to deliver smarter, sustainable solutions. | `Active` |
-| **AI Productivity Suite** | Intelligent applications designed to automate workflows, enhance productivity, and simplify tasks. | `In Development` |
-| **Radium Articles** | A knowledge-sharing platform for the latest breakthroughs in AI, technology, and innovation. | `Coming Soon` |
+| Project                   | Description                                                                                                        | Status           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------- |
+| **Nukeverse Platform**    | An innovative digital ecosystem leveraging AI and cutting-edge web tech to deliver smarter, sustainable solutions. | `In Development` |
+| **AI Productivity Suite** | Intelligent applications designed to automate workflows, enhance productivity, and simplify tasks.                 | `In Development` |
+| **Radium Articles**       | A knowledge-sharing platform for the latest breakthroughs in AI, technology, and innovation.                       | `Coming Soon .`    |
 
 ---
 
 ### 📫 Let's Connect
 
-Feel free to reach out if you want to collaborate on a project, discuss an idea, or just connect.
+Feel free to reach out if you want to collaborate on a project, discuss an idea, or just connect .
+
 
 *Let's shape the future together!*

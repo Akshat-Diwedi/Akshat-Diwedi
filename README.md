@@ -33,9 +33,7 @@ I'm passionate about building in these key areas:
 These are the primary technologies I work with:
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,python,javascript,html,css,git,github,vscode,figma" />
-  </a>
 </p>
 
 ---
@@ -43,12 +41,8 @@ These are the primary technologies I work with:
 ### 📊 My GitHub Activity
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Diwedi&show_icons=true&hide_border=true&theme=transparent&title_color=007bff&icon_color=007bff&text_color=e3e3e3&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Diwedi&layout=compact&hide_border=true&theme=transparent&title_color=007bff&text_color=e3e3e3&bg_color=0d1117" />
-  </a>
 </p>
 
 ---

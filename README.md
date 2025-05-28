@@ -42,6 +42,7 @@ These are the primary technologies I work with:
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Diwedi&show_icons=true&hide_border=true&theme=transparent&title_color=007bff&icon_color=007bff&text_color=e3e3e3&bg_color=0d1117" />
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Diwedi&layout=compact&hide_border=true&theme=transparent&title_color=007bff&text_color=e3e3e3&bg_color=0d1117" />
 </p>
 

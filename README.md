@@ -1,53 +1,69 @@
-# 👋 Hi, I'm Akshat Diwedi
+# Akshat Diwedi | Founder & CEO at Nukeverse
 
-### 🚀 Founder & CEO of [Nukeverse](#)
-
-*Building smarter, better, and more impactful technology for a brighter future.*
-
----
-
-## 🌟 About Me
-
-I am Akshat Diwedi, the Founder and CEO of Nukeverse. My mission is to harness the power of technology—especially Artificial Intelligence—to create innovative solutions that make life easier and more productive for everyone on Earth.
-
-At Nukeverse, we are passionate about developing products that not only push the boundaries of what's possible but also drive real, positive change in people's everyday lives. Our focus is on building intelligent software that simplifies tasks, boosts productivity, and empowers users to do more.
+<p align="left"> 
+  <a href="https://github.com/Akshat-Diwedi" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=23555f&style=plastic&logo=github&logo-color=white" alt="Github"/>
+  </a>
+  <a href="https://www.instagram.com/akshat_diwedi_ceo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=23555f&style=plastic&logo=instagram&logo-color=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ My Skills
+### 👋 About Me
 
-- **Frontend:** Next.js, React.js, HTML, CSS, JavaScript
-- **Backend:** Node.js
-- **AI & Tech Enthusiasm:** Always learning and exploring new horizons in Artificial Intelligence and emerging technologies
+I'm a founder and technologist on a mission to build solutions that make a genuine difference in daily life. At [Nukeverse](https://github.com/Akshat-Diwedi), I lead a team focused on creating smart, intuitive software that boosts productivity and helps people accomplish things they never thought possible. My goal is to use AI and web technologies to turn imagination into reality.
 
 ---
 
-## 💡 Featured Projects
+### 🚀 My Core Focus
 
-### 🌌 Nukeverse Platform
-An innovative digital ecosystem leveraging cutting-edge web technologies and AI to deliver smarter, sustainable solutions that make a difference.
-
-### 🤖 AI-Powered Productivity Tools
-A suite of intelligent applications designed to automate workflows, enhance productivity, and simplify everyday tasks for individuals and businesses.
-
-### 📰 Radium Articles *(Coming Soon)*
-A knowledge-sharing platform dedicated to the latest breakthroughs in AI, technology, and innovation—empowering curious minds to stay ahead of the curve.
+I'm passionate about building in these key areas:
+- **Artificial Intelligence:** Developing intelligent systems that simplify complex tasks.
+- **Web 3.0 & DApps:** Exploring the future of decentralized applications and the internet.
+- **Defense Technology:** Innovating for security and defense sectors.
+- **SaaS Products:** Creating scalable software solutions for everyday users and businesses.
 
 ---
 
-## 🧠 Hobbies & Interests
+### 🛠️ My Tech Stack
 
-- Passionate about learning new things—especially in the fields of AI and technology
-- Always eager to experiment and innovate with new ideas
+These are the primary technologies I work with:
 
----
-
-## 🌐 Connect with Me
-
-- [Instagram](https://www.instagram.com/akshat_diwedi_ceo/)
-- [GitHub](https://github.com/Akshat-Diwedi)
-- Radium Articles *(Coming Soon)*
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,python,javascript,html,css,git,vscode" />
+  </a>
+</p>
 
 ---
 
-*Let's connect, collaborate, and shape the future together!*
+### 📊 My GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Diwedi&show_icons=true&hide_border=true&theme=transparent&title_color=007bff&icon_color=007bff&text_color=e3e3e3&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Diwedi&layout=compact&hide_border=true&theme=transparent&title_color=007bff&text_color=e3e3e3&bg_color=0d1117" />
+  </a>
+</p>
+
+---
+
+### ☢️ Featured Projects
+
+| Project | Description | Status |
+|---|---|---|
+| **Nukeverse Platform** | An innovative digital ecosystem leveraging AI and cutting-edge web tech to deliver smarter, sustainable solutions. | `Active` |
+| **AI Productivity Suite** | Intelligent applications designed to automate workflows, enhance productivity, and simplify tasks. | `In Development` |
+| **Radium Articles** | A knowledge-sharing platform for the latest breakthroughs in AI, technology, and innovation. | `Coming Soon` |
+
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out if you want to collaborate on a project, discuss an idea, or just connect.
+
+*Let's shape the future together!*

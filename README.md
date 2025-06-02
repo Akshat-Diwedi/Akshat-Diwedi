@@ -5,13 +5,15 @@
 
   
 
-<a href="https://github.com/Akshat-Diwedi" target="_blank"> <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=007bff&style=for-the-badge&logo=github&logo-color=white" alt="Github"/></a>
+<a href="https://github.com/Akshat-Diwedi" target="_blank">
+<img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=007bff&style=for-the-badge&logo=github&logo-color=white" alt="Github"/>
+</a>
 
   
 
 <a href="https://www.instagram.com/akshat_diwedi_ceo/" target="_blank">
-
-<img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=E4405F&style=for-the-badge&logo=instagram&logo-color=white" alt="Instagram"/></a>
+<img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=E4405F&style=for-the-badge&logo=instagram&logo-color=white" alt="Instagram"/>
+</a>
 
 </div>
 

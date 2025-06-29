@@ -73,6 +73,7 @@ These are the primary technologies I work with:
 | Project                   | Description                                                                                                        | Status           |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------- |
 | **Nukeverse Platform**    | An innovative digital ecosystem leveraging AI and cutting-edge web tech to deliver smarter, sustainable solutions. | `In Development` |
+| **Nuke-Kv**               | Nuke-Kv - High performance Key-value store built in C++. beating other available Kv-stores by ~100% in Benchmarks. | `Available ✅` |
 | **AI Productivity Suite** | Intelligent applications designed to automate workflows, enhance productivity, and simplify tasks.                 | `In Development` |
 | **Radium Articles**       | A knowledge-sharing platform for the latest breakthroughs in AI, technology, and innovation.                       | `Coming Soon .`    |
 

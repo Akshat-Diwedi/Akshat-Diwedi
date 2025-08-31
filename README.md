@@ -31,7 +31,6 @@ I'm passionate about building in these key areas :
 - I'm currently working on **AI-powered productivity solutions .**
 - **Artificial Intelligence:** Developing intelligent systems that simplify complex tasks.
 - **Web 3.0 & D-Apps:** Exploring the future of decentralized applications and the internet.
-- **Defense Technology:** Innovating for security and defense sectors.
 - **SaaS Products:** Creating scalable software solutions for everyday users and businesses.
 
 ---
